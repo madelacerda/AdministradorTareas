@@ -4,11 +4,14 @@
 
 ## Instalacion
 
-$Se debe instalar las distintas dependencias utilizadas para el proyecto, utilizando la consola, estando adentro de la carpeta Front-End, con el comando: npm install
-$Posteriormente utilizando dentro de la misma consola el comando: npm start
-$se inicia el localhost de la app con esta corriendo.
+```
+$ git clone https://github.com/madelacerda/AdministradorTareas
+$ cd ../front-end
+$ npm install
+$ npm start
+```
 
-##Dependencias utilizadas
+## Dependencias utilizadas
 
 - "@material-ui/core": "^4.12.3",
 - "@material-ui/icons": "^4.11.2",
