@@ -31,3 +31,10 @@ $ npm start
 - "web-vitals": "^1.1.2"
 
 ## Debe ahora inicar el Back-End de la aplicacion para poder obtener los datos!
+
+## Back-End
+
+## Instalacion
+
+$Abir la consola dentro de la carpeta del BackEnd
+$Utilizar el comando mvnw spring-boot:run para iniciar el servidor Backend
